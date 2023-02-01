@@ -1,4 +1,4 @@
-![myImage](https://github.com/KrisTribbeck/KrisTribbeck/blob/main/mesh-479.png)
+![myImage](https://github.com/KrisTribbeck/KrisTribbeck/blob/main/banner%20(1).png)
 
 <details>
 <summary> Programming Experience</summary> 
