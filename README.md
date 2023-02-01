@@ -21,7 +21,7 @@
   
   ---
 ### :woman_technologist: About Me :
-  - :page_with_curl: I'm a recent graduate in Advanced Programming and I'm excited to start my journey of becoming a software developer.
+  - :page_with_curl: I'm a recent graduate in Advanced Programming and I'm excited to start my journey to become a software developer.
 
 - :books: I like to read non-fiction books where I can learn new skills. Currently learing Javascript and React.js.
 
