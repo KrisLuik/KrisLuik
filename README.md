@@ -1,16 +1,12 @@
-### Hi there 👋
+![myImage](https://github.com/KrisTribbeck/KrisTribbeck/blob/main/mesh-479.png)
 
-<!--
-**KrisTribbeck/KrisTribbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary> Programming Experience</summary> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Back-End | Front-End   | Databases      | Frameworks  | API |
+|---------:|-------------|----------------|-------------|-----|
+| C#       | HTML        | SQL (MySQL)    | .NET        |REST |
+| Java     | CSS         | NoSQL (MongoDB)| ASP.NET MVC |     |
+| Python   | Javascript  |                | Bootstrap   |     |
+| PHP      |             |                |             |     |
+</details>
