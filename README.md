@@ -1,11 +1,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42047E,50:F67280,100:FFF275&height=300&section=header&text=Kris%20Tribbeck&fontSize=90" />
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/kris-tribbeck-459196225/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -19,6 +14,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
+  <div align="center">
+  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="600" height="300"/>
+</div>
+
+
   ---
 ### :woman_technologist: About Me :
   - :page_with_curl: I'm a recent graduate in Advanced Programming and I'm excited to start my journey of becoming a software developer.
