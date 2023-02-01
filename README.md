@@ -1,13 +1,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42047E,50:F67280,100:FFF275&height=300&section=header&text=Kris%20Tribbeck&fontSize=90" />
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/kris-tribbeck-459196225/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-</div>
-    <div id="profileView" align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrisTribbeck&color=blue&style=flat-square)" alt="profile view counter"/>
-  </div>
+
   
   <h1>
   Welcome to my GitHub
@@ -15,9 +9,15 @@
 </h1>
   
   <div align="center">
-  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="300" height="150"/>
 </div>
-
+<div id="badges" align="center">
+   <a href="https://www.linkedin.com/in/kris-tribbeck-459196225/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+</div>
+    <div id="profileView" align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrisTribbeck&color=blue&style=flat-square)" alt="profile view counter"/>
+  </div>
 
   ---
 ### :woman_technologist: About Me :
@@ -58,21 +58,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrisTribbeck&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisTribbeck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  
-
-  
 </div>              
   
-  
-<details>
-<summary> Programming Experience</summary> 
-
-| Back-End | Front-End   | Databases      | Frameworks  | API |
-|---------:|-------------|----------------|-------------|-----|
-| C#       | HTML        | SQL (MySQL)    | .NET        |REST |
-| Java     | CSS         | NoSQL (MongoDB)| ASP.NET MVC |     |
-| Python   | Javascript  |                | Bootstrap   |     |
-| PHP      |             |                |             |     |
-</details>
