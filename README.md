@@ -53,10 +53,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 
 ---
-
-### :fire: My Stats :  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrisTribbeck&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisTribbeck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>              
   
