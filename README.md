@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="300" height="150"/>
 </div>
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/kris-tribbeck-459196225/">
+   <a href="https://www.linkedin.com/in/kris-luik-459196225/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 </div>
     <div id="profileView" align="center">
