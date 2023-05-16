@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42047E,50:F67280,100:FFF275&height=300&section=header&text=Kris%20Tribbeck&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42047E,50:F67280,100:FFF275&height=300&section=header&text=Kris%20Luik&fontSize=90" />
 
   
   <h1>
