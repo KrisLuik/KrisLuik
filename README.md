@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on Exercism.
 
-- :mailbox_with_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kris-tribbeck-459196225/)
+- :mailbox_with_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kris-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/kris-luik-459196225/")
   
  ---
 
